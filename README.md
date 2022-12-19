@@ -37,7 +37,7 @@ Clicking on **Check Alerts** bottom, the software check the presence of any Stru
 - TPPT list (Toxic Plant PhytoToxine) - [link to this list](https://www.agroscope.admin.ch/agroscope/en/home/publications/apps/tppt.html).
   The database consists of 1586 secondary metabolites from 844 plant species belonging to the Swiss territory but representative of Central Europe.
 - GRAS list (Generally Recognized As Safe) - [link to this list](https://www.fda.gov/food/generally-recognized-safe-gras/gras-substances-scogs-database). This list has been extracted from the FDA (Food & Drug Administration) site and groups substances evaluated as safe, for the indicated uses, following scientific studies or history of consumption consolidated over time, if used in food before 1958. The substances in the SCOGS (Select Committee on GRAS Substances) database were used for modelling.
-- Endogenous and common food supplements list - The lists of endogenous and commonly present substances in food derived from the list corresponding to the question Q1 (Normal body constituents) and Q22 (Common food components) of the Cramer decision tree implemented in the Toxtree program [ref](https://toxtree.sourceforge.net/)
+- Endogenous and common food supplements list - The lists of endogenous and commonly present substances in food derived from the list corresponding to the question Q1 (Normal body constituents) and Q22 (Common food components) of the Cramer decision tree implemented in the Toxtree program [[ref](https://toxtree.sourceforge.net/)]
 
 
 ## Contacts
