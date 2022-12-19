@@ -18,7 +18,7 @@ In few word, go to _Edit the sistem environment varibles_, go to _JAVA_PATH_ and
 
 1.	Download from [here](https://marionegri-my.sharepoint.com/personal/edoardo_vigano_marionegri_it/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fedoardo%5Fvigano%5Fmarionegri%5Fit%2FDocuments%2FToxEraserEXE) all folders and unzip all files.
 2.	Open the Dist/ToxEraserFoodSupplements.exe
-3. Insert the SMILES of target molecules in _"Insert Target SMILES" and click on *Start calculation* bottom. In the same folder you can find the output. 
+3. Insert the SMILES of target molecules in _"Insert Target SMILES"_ and click on *Start calculation* bottom. In the same folder you can find the output. 
 
 <p align="center">
   <img width="622" height="427" src="IMG/img2.png">
@@ -26,7 +26,7 @@ In few word, go to _Edit the sistem environment varibles_, go to _JAVA_PATH_ and
 
 #### Other Functionalities
 
-Clicking on *Check Alerts" bottom, the software check the presence of any Structural Alerts in the molecules and if it is present in any lists.
+Clicking on *Check Alerts* bottom, the software check the presence of any Structural Alerts in the molecules and if it is present in any lists.
 
 <p align="center">
   <img width="236" height="415" src="IMG/img3.png">
