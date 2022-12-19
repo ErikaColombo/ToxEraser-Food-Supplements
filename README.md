@@ -12,7 +12,11 @@ ToxEraser Food Supplements is a stand-alone application and it has been designed
 ### Requirements
 
 Before proceeding, please check what version of Java is installed in your OPERATING SYSTEM (OS) and if the JAVA_PATH environment variable is correctly set [[download here](https://www.oracle.com/java/technologies/downloads/)] (for further details, please refer to Oracle documentation https://docs.oracle.com/cd/E19182-01/821-0917/inst_jdk_javahome_t/index.html). 
-In few word, go to _Edit the sistem environment varibles_, create the new system and user variable named _JAVA_HOME_ and add the directory to the jdk folder. You can find it in the zip of ToxEraser Food Supplements. ToxEraser Food Supplements works with Java 8 or OpenJDK Java 11+. 
+In few word, go to _Edit the sistem environment varibles_, create the new system and user variable named _JAVA_HOME_ and add the directory to the jdk folder. ToxEraser Food Supplements works with Java 8 or OpenJDK Java 11+. 
+
+<p align="center">
+  <img width="350" height="389" src="IMG/img4.png">
+</p>
 
 ### Graphical User interface
 
