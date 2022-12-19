@@ -55,7 +55,7 @@ Edoardo Luca Viganò - Laboratory of Environmental Chemistry and Toxicology - De
 Erika Colombo - Laboratory of Environmental Chemistry and Toxicology - Department of Environmental Health Sciences - Istituto di Ricerche Farmacologiche Mario Negri IRCCS - Via Mario Negri 2, 20156 Milano, Italy -e-mail: erika.colombo@marionegri.it
 
 #### Author contribution
-Conceptualization, G.S.; methodology, G.S. and S.G.; software, E.L.V., E.C; data curation, S.G. and G.S.; visualization, E.L.V and E.C.; supervision, G.S.
+Conceptualization, G.S.; methodology, G.S. and S.G.; software, E.L.V., E.C; data curation, S.G., E.C. and G.S.; visualization, E.L.V and E.C.; supervision, G.S.
 
 
 
