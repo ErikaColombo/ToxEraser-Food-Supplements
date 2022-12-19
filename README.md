@@ -33,7 +33,7 @@ In few word, go to _Edit the sistem environment varibles_, create the new system
 Clicking on **Check Alerts** bottom, the software check the presence of any Structural Alerts in the molecules and if it is present in any lists.
 
 <p align="center">
-  <img width="236" height="415" src="IMG/img3.png">
+  <img width="622" height="427" src="IMG/img3.png">
 </p>
 
 ## Appendix
