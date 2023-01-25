@@ -20,14 +20,15 @@ In few word, go to _Edit the sistem environment varibles_, create the new system
 
 ### Graphical User interface
 
-1.	Download from [here](https://marionegri-my.sharepoint.com/personal/edoardo_vigano_marionegri_it/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fedoardo%5Fvigano%5Fmarionegri%5Fit%2FDocuments%2FToxEraserEXE) the .zip folder and unzip it..
+1.	Download from [here](https://marionegri-my.sharepoint.com/:f:/g/personal/edoardo_vigano_marionegri_it/EjdVax0y8MdIicf3JEy10JsB1fr1522UkAo2awKo3ewenw?e=kvZd0J) the .zip folder and unzip it.
 2.	Open EXE/ToxEraserFoodSupplements.exe
-3. Insert the SMILES of target molecules in _"Insert Target SMILES"_ and click on **Start calculation** bottom. In the same folder you can find the output. 
+3. Insert the SMILES of target molecules in _"Insert Target SMILES"_ and click on **Start calculation** bottom. After chosing the output folder, the calculation will start. 
 
 <p align="center">
   <img width="622" height="427" src="IMG/img2.png">
 </p>
 
+Do not move the executable file out of the folder.
 #### Other Functionalities
 
 Clicking on **Check Alerts** bottom, the software check the presence of any Structural Alerts in the molecules and if it is present in any lists.
