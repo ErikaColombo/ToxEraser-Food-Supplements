@@ -28,7 +28,7 @@ In few word, go to _Edit the sistem environment varibles_, create the new system
   <img width="622" height="427" src="IMG/img2.png">
 </p>
 
-Do not move the executable file out of the folder.
+N.B. Do not move the executable file out of the folder.
 #### Other Functionalities
 
 Clicking on **Check Alerts** bottom, the software check the presence of any Structural Alerts in the molecules and if it is present in any lists.
