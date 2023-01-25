@@ -20,7 +20,7 @@ In few word, go to _Edit the sistem environment varibles_, create the new system
 
 ### Graphical User interface
 
-1.	Download from [here](https://marionegri-my.sharepoint.com/:f:/g/personal/edoardo_vigano_marionegri_it/EjdVax0y8MdIicf3JEy10JsB1fr1522UkAo2awKo3ewenw?e=kvZd0J) the .zip folder and unzip it.
+1.	Download from [here](https://marionegri-my.sharepoint.com/:f:/g/personal/edoardo_vigano_marionegri_it/EjdVax0y8MdIicf3JEy10JsBAZ4riKgoi-9uuJeljGeMgg?e=RoSuRP) the .zip folder and unzip it.
 2.	Open EXE/ToxEraserFoodSupplements.exe
 3. Insert the SMILES of target molecules in _"Insert Target SMILES"_ and click on **Start calculation** bottom. After chosing the output folder, the calculation will start. 
 
